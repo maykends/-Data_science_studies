@@ -2,37 +2,38 @@
 
 Por Mayke Kend G. Delgado
 
+
 *Introdução a Ciência de Dados*
-# ----- Parte 1 - Classificação -----
+----- Parte 1 - Classificação -----
 *Pré-Processamento dos dados*
-## Aprendizagem bayesiana
-## Aprendizagem por árvore de decisão
-## Aprendizagem por regras
-## Aprendizagem baseada em instâncias
-## Regressão Logistica
-## Máquina de vetores de suporte (SVM)
-## Redes neurais artificiais
-## Avaliação de algoritmos de classificação
-## Combinação e rejeição de classificadores
-## ----- Parte 2 - Regressão -----
-## Regressão linear
-## Outros tipos de regressão
-## ----- Parte 3 - Regras de Associação -----
-## Algoritmo apriori
-## Algoritmo ECLAT
-## ----- Parte 4 - Agrupamento (clustering) -----
-## Agrupamento com K-means
-## Outros algoritmos de agrupamento
-## ----- Parte 5 - Tópicos Complementares -----
-## Aprendizagem por reforço com Q-Learning
-## Processamento de Linguagem Natural com spaCy e NLTK
-## Visão Computacional
-## Tratamento de dados desbalanceados
-## Seleção de atributos
-## Redução de dimensionalidade
-## Detecção de outliers
-## ----- ANEXO - Programação básica em Python -----
-## Observações
+*Aprendizagem bayesiana*
+*Aprendizagem por árvore de decisão*
+*Aprendizagem por regras*
+*Aprendizagem baseada em instâncias*
+*Regressão Logistica*
+*Máquina de vetores de suporte (SVM)*
+*Redes neurais artificiais*
+*Avaliação de algoritmos de classificação*
+*Combinação e rejeição de classificadores*
+*----- Parte 2 - Regressão -----*
+*Regressão linear*
+*Outros tipos de regressão*
+*----- Parte 3 - Regras de Associação -----*
+*Algoritmo apriori*
+*Algoritmo ECLAT*
+*----- Parte 4 - Agrupamento (clustering) -----*
+*Agrupamento com K-means*
+*Outros algoritmos de agrupamento*
+*----- Parte 5 - Tópicos Complementares -----*
+*Aprendizagem por reforço com Q-Learning*
+*Processamento de Linguagem Natural com spaCy e NLTK*
+*Visão Computacional*
+*Tratamento de dados desbalanceados*
+*Seleção de atributos*
+*Redução de dimensionalidade*
+*Detecção de outliers*
+*----- ANEXO - Programação básica em Python -----*
+*Observações*
 
 
 ## Ementa
