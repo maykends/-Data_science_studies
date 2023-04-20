@@ -1,4 +1,5 @@
-# -Data_science_studies
+# Machine Learning e Data Science com Python de A a Z
+
 Por Mayke Kend G. Delgado
 
 ## Introdução a Ciência de Dados
