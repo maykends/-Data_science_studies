@@ -3,14 +3,14 @@
 Por Mayke Kend G. Delgado
 
 
-*Introdução a Ciência de Dados*
------ Parte 1 - Classificação -----
-*Pré-Processamento dos dados*
-*Aprendizagem bayesiana*
-*Aprendizagem por árvore de decisão*
-*Aprendizagem por regras*
-*Aprendizagem baseada em instâncias*
-*Regressão Logistica*
+- Introdução a Ciência de Dados*
+- ---- Parte 1 - Classificação -----
+- Pré-Processamento dos dados*
+- Aprendizagem bayesiana*
+- Aprendizagem por árvore de decisão*
+- Aprendizagem por regras*
+- Aprendizagem baseada em instâncias*
+- Regressão Logistica*
 *Máquina de vetores de suporte (SVM)*
 *Redes neurais artificiais*
 *Avaliação de algoritmos de classificação*
