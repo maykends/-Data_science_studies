@@ -15,3 +15,7 @@ def isPalindromo(string):
 def divisao(a,b):
     div = a / b
     return div
+
+def multiplicaco(a,b):
+    mult = a * b
+    return mult
