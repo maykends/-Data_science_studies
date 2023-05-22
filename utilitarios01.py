@@ -19,3 +19,7 @@ def divisao(a,b):
 def multiplicaco(a,b):
     mult = a * b
     return mult
+
+def subtracao(a,b):
+    sub = a - b
+    return sub
