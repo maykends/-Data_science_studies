@@ -23,3 +23,8 @@ def multiplicaco(a,b):
 def subtracao(a,b):
     sub = a - b
     return sub
+
+def exponenciacao(a,b):
+    esp = a ** b
+    return esp
+
