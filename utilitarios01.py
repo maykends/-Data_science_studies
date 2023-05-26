@@ -28,3 +28,8 @@ def exponenciacao(a,b):
     esp = a ** b
     return esp
 
+
+def resto(a,b):
+    resto = a % b
+    return resto
+
